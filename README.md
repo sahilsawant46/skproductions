@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to SK Music Video Productions
 
-You can use the [editor on GitHub](https://github.com/46doctorvr/46doctorvr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## SAHIL EDITZ/KAUSTUBH RECORDS MUSIC STUDIO
 
 ```markdown
-Syntax highlighted code block
+FOR MORE INFORMATION:
+  FOLLOW OUR INSTAGRAM HANDLE- @sk__productions_
 
 # Header 1
 ## Header 2
